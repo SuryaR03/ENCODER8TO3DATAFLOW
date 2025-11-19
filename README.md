@@ -1,6 +1,4 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-## Name : SURYA R
-## REG NO: 212223110056
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -52,8 +50,8 @@ For different input combinations generate the timing diagram.
 ```
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: STAR ASHIL S
-RegisterNumber:212224040329
+Developed by: SURYA R
+RegisterNumber:212223110056
 ```
 ```
 module exp5(din,a,b,c);
